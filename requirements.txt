@@ -1,0 +1,10 @@
+ultralytics
+supervision
+pandas
+matplotlib
+scikit-learn
+catboost
+lightgbm
+tabulate
+optuna
+xgboost
