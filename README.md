@@ -1,5 +1,5 @@
 # 🚦 Barbados Traffic Flow Predictor 
-### *Winning "Best Factors Affecting Traffic" in the Zindi Challenge*
+### *Winning "Best Analysis of Traffic Contributing Factors" in the Zindi Challenge*
 
 [![Zindi Competition](https://img.shields.io/badge/Zindi-Barbados_Traffic_Analysis_Challenge-1ebba3)](https://zindi.africa/competitions/barbados-traffic-analysis-challenge) <!-- Placeholder link, replace with actual -->
 [![Team](https://img.shields.io/badge/Team-Traffic_Solvers-blueviolet)](#)
@@ -17,7 +17,7 @@ On the beautiful island of Barbados, traffic congestion affects every citizen. T
 
 Our team, **Traffic Solvers ([NYMFREE](https://zindi.africa/users/nymfree) & [KEYSTATS](https://zindi.africa/users/keystats))**, took on this challenge. We didn't just build a model; we built a **discovery engine**.
 
-> **Result:** 🥈 **4th Place** on the Private Leaderboard (Score: **0.7146**) & 🏆 **Winner of "Best Factors Affecting Traffic"** Award!
+> **Result:** 🥈 **4th Place** on the Private Leaderboard (Score: **0.7146**) & 🏆 **Winner of "Best Analysis of Traffic Contributing Factors"** Award!
 
 ---
 
