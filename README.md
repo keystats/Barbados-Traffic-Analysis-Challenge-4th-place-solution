@@ -100,10 +100,6 @@ Based on our data, here’s how to make a real difference:
 
 ---
 
-Perfect! Here's your updated **Team section** with all the links and a friendly "connect with us" vibe. I've kept it clean but inviting:
-
----
-
 ## 👥 Meet The Team
 
 
