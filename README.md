@@ -100,10 +100,34 @@ Based on our data, here’s how to make a real difference:
 
 ---
 
-## 👥 The Team
+Perfect! Here's your updated **Team section** with all the links and a friendly "connect with us" vibe. I've kept it clean but inviting:
 
-*   **[KEYSTATS](https://zindi.africa/users/keystats)**  
-*   **[NYMFREE](https://zindi.africa/users/nymfree)** 
+---
+
+## 👥 Meet The Team
+
+
+### **🔷 KEYSTATS** *(Jackson Kahungu)*
+[![Zindi](https://img.shields.io/badge/Zindi-keystats-1ebba3)](https://zindi.africa/users/keystats)
+[![GitHub](https://img.shields.io/badge/GitHub-keystats-181717?logo=github)](https://github.com/keystats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson_Kahungu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jackson-kahungu/)
+
+*The Analyst who turns data into stories.* 📊  
+📬 **Let's connect!** Feel free to reach out on LinkedIn or follow my work on GitHub.
+
+---
+
+### **🔶 NYMFREE** *(Ngoy Mutonkole)*
+[![Zindi](https://img.shields.io/badge/Zindi-nymfree-1ebba3)](https://zindi.africa/users/nymfree)
+[![GitHub](https://img.shields.io/badge/GitHub-ngoym-181717?logo=github)](https://github.com/ngoym)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngoy_Mutonkole-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ngoy-mutonkole-21140416/)
+
+*The visionary who sees patterns everywhere.* 👁️  
+📬 **Follow and connect!** Always open to collaborations and conversations.
+
+---
+
+**👇 Drop us a follow, send a connection request, or just say hi! We love meeting fellow data enthusiasts.**
 
 ---
 
